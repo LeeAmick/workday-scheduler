@@ -4,6 +4,10 @@
 ## Overview
 This is a simple calendar app designed to help you schedule your workday. It provides a user-friendly interface where you can enter and save events for different hours of the day. The app also color-codes time blocks to indicate whether they are in the past, present, or future.
 
+You can access the live version of this project [here](https://leeamick.github.io/workday-scheduler/).
+
+![Screenshot](Assets/screenshot.png)
+
 ## Features
 - Display of the current date at the top of the calendar.
 - Time blocks for standard business hours (9 AM to 5 PM).
